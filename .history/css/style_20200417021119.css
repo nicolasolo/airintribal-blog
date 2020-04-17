@@ -1,0 +1,7 @@
+.card{
+    border-color: none;
+    border-style: none;
+}
+.card .card-img{
+border-radius: 1em;
+}

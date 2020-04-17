@@ -1,0 +1,14 @@
+.card{
+    border-color: none;
+    border-style: none;
+}
+.card .card-img-top{
+border-radius: 2rem;
+}
+.car .card-img-overlay {
+    
+}
+
+nav{
+    height: 5%;
+}

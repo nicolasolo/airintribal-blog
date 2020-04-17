@@ -1,0 +1,16 @@
+.card{
+    border-color: none;
+    border-style: none;
+}
+.card .card-img-top{
+border-radius: 2rem;
+}
+.car .card-img-overlay .card-title {
+    dis
+    vertical-align: bottom;
+    text-align: left;
+}
+
+nav{
+    height: 5%;
+}
