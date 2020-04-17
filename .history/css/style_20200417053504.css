@@ -3,19 +3,19 @@
     border-style: none;
 }
 .card .card-img-top{
+    po
 border-radius: 1rem;
 }
 .card .card-img-overlay .card-title {
-    position: absolute;
-    bottom: 5%;
+    
     vertical-align: bottom;
     text-align: left;
 }
 .card .card-img-overlay{
-    border-radius: 5%;
-    top: 90%;
-    bottom: 5%;
+    position: absolute;
+    bottom: 29px;
     left: 20px;
+    height: 20px;
     width: 30%;
     background-color: aqua;
 }
